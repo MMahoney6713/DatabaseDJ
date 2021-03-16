@@ -1,1 +1,5 @@
 .DS_Store
+conceptual.md
+
+playlist-app/__pycache__/
+playlist-app/venv/
